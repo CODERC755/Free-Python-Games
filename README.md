@@ -6,4 +6,4 @@ You dont need special tools just python higher than 3 CANNOT BE LOWER
 
 Also you need the package called "freegames" using the command prompt you type this in 
 
-"pip install freegames"
+"pip install freegames"/"python3 -m pip install freegames
